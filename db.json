@@ -1,0 +1,29 @@
+{
+  "questions": [
+      {
+          "id": 1,
+          "text": "pregunta 1",
+          "answers": [
+              "opcion 1",
+              "opcion 2"
+          ]
+      },
+      {
+          "id": 2,
+          "text": "pregunta 2",
+          "answers": [
+              "opcion 1",
+              "opcion 2",
+              "opcion 3"
+          ]
+      },
+      {
+          "id": 3,
+          "text": "pregunta 3",
+          "answers": [
+              "opcion 1",
+              "opcion 2"
+          ]
+      }
+  ]
+}
